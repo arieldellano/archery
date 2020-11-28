@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# archery.resources.us - English resources for archery Arch Linux installer
+#
+# Copyright (c) 2020, Virgee LLC
+#  Author: Ariel de Llano <arieldellano@virgee.com>
+
+LANG="en_US.UTF-8"
